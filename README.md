@@ -17,7 +17,7 @@ I am a senior software developer [**@maliakb34**](https://github.com/maliakb34).
 
 ## ⚡️ Skills
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,arduino,aws,bash,bootstrap,dotnet,c,cs,cpp,cloudflare,codepen,html,css,wordpress,less,jquery,java,flutter,swift,dart,gradle,docker,kubernetes,figma,git,ps,ai,mysql,postgres,postman,powershell,raspberrypi,redis,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,dotnet,c,cs,cpp,flutter,swift,dart,gradle,docker,kubernetes,arduino,aws,bash,cloudflare,codepen,html,css,bootstrap,wordpress,less,jquery,java,figma,git,ps,ai,mysql,postgres,postman,powershell,raspberrypi,redis,github)](https://skillicons.dev)
 
 </div>
 

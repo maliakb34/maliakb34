@@ -8,10 +8,10 @@ I am a senior software developer [**@maliakb34**](https://github.com/maliakb34).
 
 ## 🚧 Projects
 
-- [🖥 100+] - Bussiness Web Site
+- [💯 100+] - Web Site Build
 - [🖥 23] - Backoffice System
 - [📱 16] - Mobile App Project
-
+- [🤖 100+] - Embedded Project
 
 <div align="center">
 
